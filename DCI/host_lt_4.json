@@ -1,0 +1,16 @@
+[
+    {
+        "AllowedHeaders": [
+            "*"
+        ],
+        "AllowedMethods": [
+            "PUT",
+            "POST",
+            "DELETE"
+        ],
+        "AllowedOrigins": [
+            "http://www.mycompany.com"
+        ],
+        "ExposeHeaders": []
+    }
+]
